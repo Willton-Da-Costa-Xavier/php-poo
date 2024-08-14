@@ -4,9 +4,10 @@
 
         var $modelo;
         var $cor;
-        var $ponta;
-        var $tampada;
+        var $ponta; 
         var $carga;
+        var $tampada;
+       
 
         function rabiscar(){
             if ($this->tampada == true) {
