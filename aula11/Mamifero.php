@@ -1,7 +1,7 @@
 <?php 
     require_once "Animal.php";
 
-    class Mamifero extends Animal{
+    class Mamifero{
         protected $corPelo;
 
         public function emitirSom(){
